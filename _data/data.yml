@@ -15,12 +15,12 @@ sidebar:
     # Sidebar links
     email: zszeng23@cse.cuhk.edu.hk
     # phone: 012 345 6789
-    timezone: CST GMT+8 # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    timezone: China Standard Time # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     # citizenship:
-    website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: https://www.linkedin.com/in/zhongshen-zeng/
+    # website: https://www.zhihu.com/column/c_1416327491808608256 # Include the full website URL, including "http://" or "https://".
+    linkedin: zhongshen-zeng
     # xing: alandoe
-    github: jekyllRandolph-zeng
+    github: Randolph-zeng
     # telegram: # add your nickname without '@' sign
     # gitlab:
     # bitbucket:
@@ -82,7 +82,7 @@ education:
         #     - Bullet point
         #     - Bullet point
       - degree: BSc in Computer Science
-        university: University of Illinois at Urbana&Champaign
+        university: University of Illinois at Urbana & Champaign
         time: 2013 - 2017
         # details: |
         #   Describe your study here lorem ipsum dolor sit amet, consectetuer
