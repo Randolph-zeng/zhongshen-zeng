@@ -15,7 +15,7 @@ sidebar:
     # Sidebar links
     email: zszeng23@cse.cuhk.edu.hk
     # phone: 012 345 6789
-    timezone: China Standard  # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    timezone: China Standard # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     # citizenship:
     # website: https://www.zhihu.com/column/c_1416327491808608256 # Include the full website URL, including "http://" or "https://".
     linkedin: zhongshen-zeng
@@ -223,25 +223,24 @@ experiences:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    # intro: |
+    #   You can list your publications in this section. Lorem ipsum dolor sit
+    #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+    #   bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: MR-GSM8K: "A Meta-Reasoning Benchmark for Large Language Model Evaluation"
+        link: https://arxiv.org/abs/2312.17080
+        authors: Zhongshen Zeng, Pengguang Chen, Shu Liu, Haiyun Jiang, Jiaya Jia
+        # conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "MR-BEN: A Comprehensive Meta-Reasoning Benchmark for Large Language Models"
+        link: "https://arxiv.org/abs/2406.13975"
+        authors: Zhongshen Zeng, Yinhong Liu, Yingjia Wan, Jingyao Li, Pengguang Chen, Jianbo Dai, Yuxuan Yao, Rongwu Xu, Zehan Qi, Wanru Zhao, Linling Shen, Jianqiao Lu, Haochen Tan, Yukang Chen, Hao Zhang, Zhan Shi, Bailin Wang, Zhijiang Guo, Jiaya Jia
+        # conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
+      - title: "Self-Consistent Learning: Cooperation between Generators and Discriminators"
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: Tong Wu, Hao Wang, Zhongshen Zeng, Wei Wang, Hai-Tao Zheng, Jiaxing Zhang
 
 skills:
     title: Skills &amp; Proficiency
