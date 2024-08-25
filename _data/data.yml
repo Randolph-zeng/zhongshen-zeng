@@ -60,37 +60,38 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Hi, I am currently a 2nd-year Ph.D. candidate in Computer Science & Engineering at CUHK, under the guidance of Prof. Jiaya Jia and Prof. Bei Yu. I received my bachelor's degree in Computer Science from UIUC in 2017. Following my undergraduate studies, I joined IBM Research, where I was fortunate to be supported in earning my online master's degree from Georgia Tech. During my time at IBM, I primarily worked on ChatBot development using Watson Assistant.
+      In 2021, I joined the International Digital Economy Academy (IDEA) Lab in Shenzhen as an Algorithm Engineer, focusing on LLM pretraining. In August 2023, I embarked on my Ph.D. journey at CUHK's DeepVision Lab, where my research now centers on natural language reasoning, with a particular focus on code intelligence and agentic research.
+       
 education:
     title: Education
     info:
+      - degree: Ph.D in Computer Science & Engineering
+        university: Chinese University of Hong Kong
+        time: 2023 - TBD
+
       - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+        university: Georgia Institute of Technology
+        time: 2018 - 2021
+        # details: |
+        #   Describe your study here lorem ipsum dolor sit amet, consectetuer
+        #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        #   sociis natoque penatibus et magnis dis parturient montes, nascetur
+        #   ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        #   pretium quis, sem.
+        #     - Bullet point
+        #     - Bullet point
+      - degree: BSc in Computer Science
+        university: University of Illinois at Urbana&Champaign
+        time: 2013 - 2017
+        # details: |
+        #   Describe your study here lorem ipsum dolor sit amet, consectetuer
+        #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        #   sociis natoque penatibus et magnis dis parturient montes, nascetur
+        #   ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        #   pretium quis, sem.
+        #     - Bullet point
+        #     - Bullet point
 
 experiences:
     title: Experiences
