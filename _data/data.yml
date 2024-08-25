@@ -4,57 +4,57 @@
 
 sidebar:
     position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Zhongshen Zeng
+    tagline: Ph.D Candidate in CUHK
+    avatar: profile_pic_3.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: example@email.com
-    phone: 012 345 6789
-    timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-    citizenship:
+    email: zszeng23@cse.cuhk.edu.hk
+    # phone: 012 345 6789
+    timezone: CST GMT+8 # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    # citizenship:
     website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: alandoe
-    xing: alandoe
-    github: jekyll
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@jekyllrb'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    mastodon:  # Please include your full Mastodon link here.
-    hackerrank: # Please provide your HackerRank username.
-    leetcode: # Please provide your LeetCode username.
-    pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+    linkedin: https://www.linkedin.com/in/zhongshen-zeng/
+    # xing: alandoe
+    github: jekyllRandolph-zeng
+    # telegram: # add your nickname without '@' sign
+    # gitlab:
+    # bitbucket:
+    twitter: '@Ruiss1'
+    # stack-overflow: # Number/Username, e.g. 123456/alandoe
+    # codewars:
+    # goodreads: # Number-Username, e.g. 123456-alandoe
+    # mastodon:  # Please include your full Mastodon link here.
+    # hackerrank: # Please provide your HackerRank username.
+    # leetcode: # Please provide your LeetCode username.
+    # pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Native
+    # languages:
+    #   title: Languages
+    #   info:
+    #     - idiom: Chinese
+    #       level: Native
 
-        - idiom: French
-          level: Professional
+    #     - idiom: English
+    #       level: Professional
 
-        - idiom: Spanish
-          level: Professional
+    #     - idiom: Spanish
+    #       level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Tennis
           link:
 
-        - item: Snowboarding
+        - item: Photography
           link:
 
-        - item: Cooking
+        - item: Piano
           link:
 
 career-profile:
